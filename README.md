@@ -4,7 +4,6 @@
 
 #### Social Media:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
-- [Twitch](https://www.twitch.tv/booleancub3)
 - [Discord Server](https://discord.gg/3ZDpPyR)
 - [Itch.io](https://booleancube.itch.io/)
 
