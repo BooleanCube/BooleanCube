@@ -2,7 +2,7 @@
 
 ### Bot Developer, Game Developer, Youtuber, Competitive Programmer, and a Professional Procrastinator.
 
-#### Social Media:
+#### Platforms:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
 - [Discord Server](https://discord.gg/3ZDpPyR)
 - [Itch.io](https://booleancube.itch.io/)
