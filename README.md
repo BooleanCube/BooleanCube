@@ -7,10 +7,8 @@
 - [Discord Server](https://discord.gg/3ZDpPyR)
 - [Itch.io](https://booleancube.itch.io/)
 
-#### Games:
+#### Projects:
 **Together**: https://booleancube.itch.io/together
-
-*only 1 released atm, im working on more*
 
 #### ABOUT MEEEEE:
 *(in one big paragraph)*<br>
