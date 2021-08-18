@@ -1,4 +1,4 @@
-# Hello There, I am BooleanCube!
+# Hello There, I am BooleanCube! 🧊🧊🧊
 
 ## Bot Developer, Game Developer, Youtuber, Competitive Programmer, and a Professional Procrastinator.
 
@@ -8,7 +8,6 @@
 - [Itch.io](https://booleancube.itch.io/)
 
 ### Projects:
-
 **Together**: https://booleancube.itch.io/together
 
 ### ABOUT MEEEEE:
