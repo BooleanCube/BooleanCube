@@ -8,6 +8,7 @@
 - [Itch.io](https://booleancube.itch.io/)
 
 #### Projects:
+
 **Together**: https://booleancube.itch.io/together
 
 #### ABOUT MEEEEE:
