@@ -1,4 +1,4 @@
-# About BooleanCube
+# 🧊 BooleanCube 🧊
 > Competitive Programmer and Software Developer
 
 ### Platforms:
