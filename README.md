@@ -1,5 +1,5 @@
 # 🧊 BooleanCube 🧊
-> Competitive Programmer and Software Developer
+> Competitive Programmer and Software Developer <br>
 > Astronomy Enthusiast and Environmentalist
 
 ### Platforms:
