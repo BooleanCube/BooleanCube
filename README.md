@@ -1,6 +1,5 @@
-# Hello There, I am BooleanCube! 🧊🧊🧊
-
-## Bot Developer, Game Developer, Youtuber, Competitive Programmer, and a Professional Procrastinator.
+# About BooleanCube
+> Competitive Programmer and Software Developer
 
 ### Platforms:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
