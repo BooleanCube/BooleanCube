@@ -1,3 +1,6 @@
+![image](https://i.imgur.com/89j4E9h.gif)
+
+
 # 🧊 BooleanCube 🧊
 > Competitive Programmer and Software Developer <br>
 > Astronomy Enthusiast and Environmentalist
