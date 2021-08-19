@@ -1,8 +1,5 @@
 <p align="center">
-  
   <img src="https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014" alt="Fern Smirk">
-  ![image](https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014)
-  
 </p>
 
 # 🧊 BooleanCube 🧊
