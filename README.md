@@ -1,9 +1,12 @@
-![image](https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014)
+<p align="center">
+  ![image](https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014)
 
 
-# 🧊 BooleanCube 🧊
-> Competitive Programmer and Software Developer <br>
-> Astronomy Enthusiast and Environmentalist
+  # 🧊 BooleanCube 🧊
+  > Competitive Programmer and Software Developer <br>
+  > Astronomy Enthusiast and Environmentalist
+</p>
+
 
 ### Platforms:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
