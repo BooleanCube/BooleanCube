@@ -1,5 +1,6 @@
 # 🧊 BooleanCube 🧊
 > Competitive Programmer and Software Developer
+> Astronomy Enthusiast and Environmentalist
 
 ### Platforms:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
