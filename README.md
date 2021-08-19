@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/89j4E9h.gif)
+![image](https://media1.giphy.com/media/CLnmxQqmk6X16/giphy.gif)
 
 
 # 🧊 BooleanCube 🧊
