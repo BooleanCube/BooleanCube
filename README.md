@@ -4,7 +4,7 @@
 
 <h6 align="center">Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ</h6>
 <h1 align="center"><b>~~ BooleanCube ~~</b></h1>
-<h4 align="center">Competitive Programmer and Software Developer</h4>
+<h3 align="center">Competitive Programmer and Software Developer</h3>
 <p align="center"> 
   <a href="https://booleancube.itch.io/"> <img src="https://img.shields.io/badge/-itch.io-black?style=for-the-badge&logo=itch.io" alt="itch"> </a> 
   <a href="https://discord.gg/3ZDpPyR"> <img src="https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord" alt="discord"> </a> 
