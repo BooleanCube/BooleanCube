@@ -2,7 +2,7 @@
   <img src="https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014" alt="Fern Smirk">
 </p>
 
-<h3 align="center">Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ</h3>
+<h6 align="center">Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ</h6>
 <h1 align="center"><b>~~ BooleanCube ~~</b></h1>
 <h4 align="center">Competitive Programmer and Software Developer</h4>
 <p align="center"> 
