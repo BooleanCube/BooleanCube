@@ -18,7 +18,6 @@
   <a href="https://www.cplusplus.com/"> <img src="https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&color=00599c" alt="cpp"> </a> 
   <a href="https://www.python.org/download/releases/3.0/"> <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" alt="python"> </a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20(pronounced%20%22See%20Sharp%22,applications%20that%20run%20in%20the%20.&text=C%23%20has%20its%20roots%20in,%2C%20Java%2C%20and%20JavaScript%20programmers."> <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c%20sharp&color=239120" alt="cs"> </a> 
-  <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&color=2c2d72" alt="lua"> </a> 
   <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/-neovim-black?style=for-the-badge&logo=neovim" alt="nvim"> </a> 
   <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab"> <img src="https://img.shields.io/badge/-terminal-black?style=for-the-badge&logo=windows%20terminal&color=4d4d4d" alt="terminal"> </a> 
   <a href="https://github.com/alacritty/alacritty"> <img src="https://img.shields.io/badge/-alacritty-black?style=for-the-badge&logo=alacritty" alt="alacritty"> </a> 
