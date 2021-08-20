@@ -2,9 +2,8 @@
   <img src="https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014" alt="Fern Smirk">
 </p>
 
-# 🧊 BooleanCube 🧊
-> Competitive Programmer and Software Developer <br>
-> Astronomy Enthusiast and Environmentalist
+<h1 align="center">BooleanCube</h1>
+<h3 align="center">Competitive Programmer and Software Developer</h3>
 
 ### Platforms:
 - [Youtube](https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g)
