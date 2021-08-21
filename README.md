@@ -47,5 +47,6 @@
 ----
 
 <p align="center">
-  Professional Procrastinator | Astronomy Enthusiast |  Weeb | Average Lofi Enjoyer
+  Professional Procrastinator | Astronomy Enthusiast |  Weeb | Average Lofi Enjoyer <br>
+  BooleanCube#4690
 </p>
