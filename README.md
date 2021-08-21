@@ -27,8 +27,16 @@
 
 ----
 
-### Projects:
-**Together**: https://booleancube.itch.io/together
+#### 🖥️ Projects
+[Together](https://booleancube.itch.io/together) - Simple 2D Single-Player Platformer Puzzle Game <br>
+[Pig Latin Translator](https://github.com/BooleanCube/PigLatinTranslator) - Pig Latin Translator that converts English text to Pig Latin <br>
+[zelk.vim](https://github.com/BooleanCube/zelk.vim) - Zorin OS theme inspired dark blue neovim colorscheme <br>
+[blurple.vim](https://github.com/BooleanCube/blurple.vim) - Discord inspired blurple neovim colorscheme <br>
+[CPBook](https://github.com/BooleanCube/CPBook) - WIP Competitive Programming book written in wiki <br>
+[Auto Moderator Discord Bot](https://github.com/BooleanCube/AutoModeratorDiscordBot) - An automoderator discord bot that does half the job for your server moderators (only src) <br>
+[TicTacToe AI Discord Bot](https://discord.com/api/oauth2/authorize?client_id=745316825629327420&permissions=8&scope=bot) [src](https://github.com/BooleanCube/TicTacToeAIBot) - A Tic Tac Toe AI bot that is undefeatable! <br>
+[Tutorial Bot src](https://github.com/BooleanCube/TutorialBot) - This is the source code of the bot from my JDA tutorial series <br>
+[Chatbot](https://github.com/BooleanCube/ChatbotBETA) - A discord chatbot that you can speak to (currently in beta because the API I was using is very limited now)
 
 ### ABOUT MEEEEE:
 *(in one big paragraph)*<br>
