@@ -23,6 +23,9 @@
   <a href="https://github.com/alacritty/alacritty"> <img src="https://img.shields.io/badge/-alacritty-black?style=for-the-badge&logo=alacritty" alt="alacritty"> </a> 
   <a href="https://unity.com/"> <img src="https://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" alt="unity"> </a>
   <a href="https://www.jetbrains.com/idea/"> <img src="https://img.shields.io/badge/-IntelliJ-black?style=for-the-badge&logo=intellij%20idea" alt="intellij"> </a>
+  <a href="https://www.jetbrains.com/rider/"> <img src="https://img.shields.io/badge/-Rider-black?style=for-the-badge&logo=Rider" alt="rider"> </a>
+  <a href="https://www.sublimetext.com/"> <img src="https://img.shields.io/badge/-Sublime-black?style=for-the-badge&logo=Sublime%20Text" alt="sublime"> </a>
+  <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git" alt="git"> </a>
 </p>
 
 ----
