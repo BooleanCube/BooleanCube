@@ -43,9 +43,8 @@
 
 ----
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BooleanCube&show_icons=true" alt="BooleanCube" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide=html" alt="BooleanCube" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BooleanCube&show_icons=true&theme=tokyonight" alt="BooleanCube" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide=html&show_icons=true&theme=tokyonight" alt="BooleanCube" /></p>
 
 ----
 
