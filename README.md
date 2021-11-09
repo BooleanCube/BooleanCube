@@ -43,8 +43,10 @@
 
 ----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BooleanCube&show_icons=true&theme=tokyonight" alt="BooleanCube" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide=html&show_icons=true&theme=tokyonight" alt="BooleanCube" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&theme=tokyonight" alt="Langs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" /></p>
+
 
 ----
 
