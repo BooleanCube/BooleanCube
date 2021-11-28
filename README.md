@@ -51,6 +51,6 @@
 ----
 
 <p align="center">
-  Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Weeb | Average Lofi Enjoyer <br>
+  Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer <br>
   BooleanCube#4690
 </p>
