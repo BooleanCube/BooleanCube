@@ -28,6 +28,7 @@
   <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git" alt="git"> </a>
 </p>
 
+<img src=""/>
 <a href="https://discord.gg/3ZDpPyR">
     <img src="https://lanyard.cnrad.dev/api/525126007330570259?idleMessage=Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　煙ム加スけヨ" align="center"/>
 </a>
