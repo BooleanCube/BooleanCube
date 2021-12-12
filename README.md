@@ -28,10 +28,11 @@
   <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git" alt="git"> </a>
 </p>
 
-<img src="https://github.com/BooleanCube/BooleanCube/blob/main/finn.jpg" width=213 align="left"/>
-<a href="https://discord.gg/3ZDpPyR">
-    <img src="https://lanyard.cnrad.dev/api/525126007330570259?idleMessage=Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　煙ム加スけヨ" />
-</a>
+<p align="center">
+    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/finn.jpg" width=180 />
+    <a href="https://discord.gg/3ZDpPyR"> <img src="https://lanyard.cnrad.dev/api/525126007330570259?idleMessage=Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　煙ム加スけヨ" width=350/> </a>
+    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/Globe.gif" width=180 />
+</p>
 
 ----
 
@@ -48,14 +49,18 @@
 
 ----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&theme=tokyonight" alt="Langs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" /> 
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/finn.jpg" width=180 /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&theme=tokyonight" alt="Langs" /> 
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/finn.jpg" width=180 /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" /> 
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/finn.jpg" width=180 /> <br>
+</p>
 
 ----
 
 <p align="center">
   Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer <br>
-  BooleanCube#4690
+  bool#4690
 </p>
