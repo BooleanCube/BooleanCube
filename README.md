@@ -50,15 +50,15 @@
 ----
 
 <p align="center">
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/erentitan.jpg" width=200 />
-  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" /> 
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/angrymob.png" width=200 /> <br>
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/erentitan.jpg" width=160 />
+  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" width=400/> 
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/angrymob.png" width=160 /> <br>
   <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/megumicrazy.jpg" width=160 />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&theme=tokyonight" alt="Langs" /> 
   <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/30298077.png" width=160 /> <br>
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/giyufocused.jpg" width=200 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" /> 
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/L.jpeg" width=200 /> <br>
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/giyufocused.jpg" width=160 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" width=400/> 
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/L.jpeg" width=160 /> <br>
 </p>
 
 ----
