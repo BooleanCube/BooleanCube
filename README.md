@@ -67,5 +67,4 @@
 
 <p align="center">
   Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer <br>
-  bool#4690
 </p>
