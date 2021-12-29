@@ -61,6 +61,8 @@
   <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/L.jpeg" width=160 /> <br>
 </p>
 
+![image](https://user-images.githubusercontent.com/47650058/147698900-1af3018f-50a3-41a4-9361-25c75f89f598.png)
+
 ----
 
 <p align="center">
