@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/villains/images/a/a7/Tumblr_otgzm0EMIq1vuuzreo6_1280.gif/revision/latest/scale-to-width-down/250?cb=20180108084014" alt="Fern Smirk">
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/811004.jpg" alt="Fern Smirk">
 </p>
 
 <h6 align="center">Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ</h6>
