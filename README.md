@@ -36,15 +36,17 @@
 ----
 
 #### 🖥️ Projects
+[Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
+[NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
+[A* Pathfinding Simulation](https://github.com/BooleanCube/AStar-Pathfinding-Simulation) - An optimized simulation for the A* pathfinding algorithm (with a bit of help from my boi devon)
 [Together](https://booleancube.itch.io/together) - Simple 2D Single-Player Platformer Puzzle Game <br>
 [Pig Latin Translator](https://github.com/BooleanCube/PigLatinTranslator) - Pig Latin Translator that converts English text to Pig Latin <br>
 [zelk.vim](https://github.com/BooleanCube/zelk.vim) - Zorin OS theme inspired dark blue neovim colorscheme <br>
-[blurple.vim](https://github.com/BooleanCube/blurple.vim) - Discord inspired blurple neovim colorscheme <br>
 [CPBook](https://github.com/BooleanCube/CPBook) - WIP Competitive Programming book written in wiki <br>
-[Auto Moderator Discord Bot](https://github.com/BooleanCube/AutoModeratorDiscordBot) - An automoderator discord bot that does half the job for your server moderators (only src) <br>
+[GolemCube](https://github.com/BooleanCube/AutoModeratorDiscordBot) - An automoderator discord bot that does half the job for your server moderators (only src) <br>
 [TicTacToe AI Discord Bot](https://discord.com/api/oauth2/authorize?client_id=745316825629327420&permissions=8&scope=bot) [src](https://github.com/BooleanCube/TicTacToeAIBot) - A Tic Tac Toe AI bot that is undefeatable! <br>
 [Tutorial Bot src](https://github.com/BooleanCube/TutorialBot) - This is the source code of the bot from my JDA tutorial series <br>
-[Chatbot](https://github.com/BooleanCube/ChatbotBETA) - A discord chatbot that you can speak to (currently in beta because the API I was using is very limited now)
+[AI Chatbot](https://github.com/BooleanCube/ChatbotBETA) - A discord chatbot that you can speak to (currently in beta because the API I was using is very limited now)
 
 ----
 
@@ -59,6 +61,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BooleanCube&hide_border=true&theme=tokyonight" alt="Streak" width=400/> 
   <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/L.jpeg" width=160 /> <br>
 </p>
+
+----
 
 ![image](https://user-images.githubusercontent.com/47650058/147698900-1af3018f-50a3-41a4-9361-25c75f89f598.png)
 
