@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/finn.jpg" width=180 />
+    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/bac4890e854599a841f9a36befeeac0b.jpg" width=180 />
     <a href="https://discord.gg/3ZDpPyR"> <img src="https://lanyard.cnrad.dev/api/525126007330570259?idleMessage=Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　煙ム加スけヨ" width=350/> </a>
-    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/Globe.gif" width=180 />
+    <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/fern-adventure-time.gif" width=180 />
 </p>
 
 ----
