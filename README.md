@@ -36,8 +36,10 @@
 ----
 
 #### 🖥️ Projects
+[Wordle AI](https://github.com/BooleanCube/Wordle-AI)
 [Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
 [NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
+[Procedural Island Generation](https://github.com/BooleanCube/Procedural-Island-Generation)
 [A* Pathfinding Simulation](https://github.com/BooleanCube/AStar-Pathfinding-Simulation) - An optimized simulation for the A* pathfinding algorithm (with a bit of help from my boi devon) <br>
 [Together](https://booleancube.itch.io/together) - Simple 2D Single-Player Platformer Puzzle Game <br>
 [Pig Latin Translator](https://github.com/BooleanCube/PigLatinTranslator) - Pig Latin Translator that converts English text to Pig Latin <br>
