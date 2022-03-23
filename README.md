@@ -36,7 +36,7 @@
 ----
 
 #### 🖥️ Projects
-[Wordle AI](https://github.com/BooleanCube/Wordle-AI)
+[Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
 [Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
 [NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
 [Procedural Island Generation](https://github.com/BooleanCube/Procedural-Island-Generation)
