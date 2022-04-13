@@ -36,6 +36,7 @@
 ----
 
 #### 🖥️ Projects
+[Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
 [Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
 [Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
 [NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
