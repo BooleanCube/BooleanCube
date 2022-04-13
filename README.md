@@ -72,5 +72,5 @@
 ----
 
 <p align="center">
-  Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer <br>
+  Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer | Microsoft Hater | Linux Simp <br>
 </p>
