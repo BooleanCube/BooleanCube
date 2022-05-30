@@ -67,10 +67,6 @@
 
 ----
 
-![image](https://user-images.githubusercontent.com/47650058/147698900-1af3018f-50a3-41a4-9361-25c75f89f598.png)
-
-----
-
 <p align="center">
   Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Lofi Enjoyer | Microsoft Hater | Linux Simp <br>
 </p>
