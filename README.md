@@ -36,6 +36,7 @@
 ----
 
 #### 🖥️ Projects
+[ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
 [Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
 [Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
 [Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
