@@ -36,6 +36,7 @@
 ----
 
 #### 🖥️ Projects
+[JGMP](https://github.com/BooleanCube/jgmp) - Java Library for Computer Graphics Math/Physics. Math and Physics tools for 2D graphic applications. <br>
 [ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
 [Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
 [Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
