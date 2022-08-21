@@ -36,7 +36,7 @@
 ----
 
 #### 🖥️ Projects
-[Falling Sand Simulation]() - <br>
+[Falling Sand Simulation](https://github.com/BooleanCube/falling-sand-sim) - A falling sand simulation where every pixel is physically simulated.<br>
 [JGMP](https://github.com/BooleanCube/jgmp) - Java Library for Computer Graphics Math/Physics. Math and Physics tools for 2D graphic applications. <br>
 [ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
 [Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
