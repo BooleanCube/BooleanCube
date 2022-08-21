@@ -57,6 +57,10 @@
 
 ----
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
+</div>  
+
 <p align="center">
   <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/erentitan.jpg" width=160 />
   <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&theme=tokyonight" alt="Stats" width=400/> 
