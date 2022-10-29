@@ -36,15 +36,18 @@
 ----
 
 #### 🖥️ Projects
-[DiscordDB](https://github.com/BooleanCube/DiscordDB) - An easy to use database implementation for JDA Discord Bot Developers. <br>
-[Falling Sand Simulation](https://github.com/BooleanCube/falling-sand-sim) - A falling sand simulation where every pixel is physically simulated.<br>
-[JGMP](https://github.com/BooleanCube/jgmp) - Java Library for Computer Graphics Math/Physics. Math and Physics tools for 2D graphic applications. <br>
-[ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
-[Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
-[Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
-[Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
 [Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
 [NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
+[DiscordDB](https://github.com/BooleanCube/DiscordDB) - An easy to use database implementation for JDA Discord Bot Developers. <br>
+[Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
+[Falling Sand Simulation](https://github.com/BooleanCube/falling-sand-sim) - A falling sand simulation where every pixel is physically simulated.<br>
+[JGMP](https://github.com/BooleanCube/jgmp) - Java Library for Computer Graphics Math/Physics. Math and Physics tools for 2D graphic applications. <br>
+[JG3P](https://github.com/BooleanCube/jg3p) - Java Library for 3D Computer Physics Simulation and Graphics. <br>
+[ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
+[Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
+[Chaos Theory Research](https://github.com/BooleanCube/chaos-theory) - Chaos Theory Research paper animated using manim and matplotlib. <br>
+[WordlePeaks AI](https://github.com/BooleanCube/WordlePeaks-AI) - WordlePeaks puzzle solver using Binary Search and Statistics. <br>
+[Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
 [Procedural Island Generation](https://github.com/BooleanCube/Procedural-Island-Generation) - Procedural Island Generation Optimized Algorithms for Game Development <br>
 [A* Pathfinding Simulation](https://github.com/BooleanCube/AStar-Pathfinding-Simulation) - An optimized simulation for the A* pathfinding algorithm (with a bit of help from my boi devon) <br>
 [Together](https://booleancube.itch.io/together) - Simple 2D Single-Player Platformer Puzzle Game <br>
