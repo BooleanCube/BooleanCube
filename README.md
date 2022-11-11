@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/githubbanner.png" alt="Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ" width=800>
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/githubbanner.png" alt="Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ" href="https://booleancube.github.io/" width=800>
 </p>
 
 ----
@@ -35,44 +35,67 @@
 
 ----
 
-#### 🖥️ Projects
-[Lollipop](https://github.com/BooleanCube/lollipop-bot) - A simple anime/manga discord bot! <br>
-[NeovimKeys](https://github.com/BooleanCube/NeovimKeys) - An application to practice the `HJKL` keys for Neovim! <br>
-[DiscordDB](https://github.com/BooleanCube/DiscordDB) - An easy to use database implementation for JDA Discord Bot Developers. <br>
-[Wordle AI](https://github.com/BooleanCube/Wordle-AI) - An AI Wordle Solver that can solve wordle puzzles for you! <br>
-[Falling Sand Simulation](https://github.com/BooleanCube/falling-sand-sim) - A falling sand simulation where every pixel is physically simulated.<br>
-[JGMP](https://github.com/BooleanCube/jgmp) - Java Library for Computer Graphics Math/Physics. Math and Physics tools for 2D graphic applications. <br>
-[JG3P](https://github.com/BooleanCube/jg3p) - Java Library for 3D Computer Physics Simulation and Graphics. <br>
-[ImgManip and AsciiGen](https://github.com/BooleanCube/imgmanip-asciigen) - Image Manipulation and Ascii Generation tools written in Java <br>
-[Enigma Simulation](https://github.com/BooleanCube/Enigma-Simulation) - German Enigma Cyphering Machine Simulation <br>
-[Chaos Theory Research](https://github.com/BooleanCube/chaos-theory) - Chaos Theory Research paper animated using manim and matplotlib. <br>
-[WordlePeaks AI](https://github.com/BooleanCube/WordlePeaks-AI) - WordlePeaks puzzle solver using Binary Search and Statistics. <br>
-[Random Regex Generator](https://github.com/BooleanCube/Random-Regex-Generator) - Generates a random string given a regex format through input! <br>
-[Procedural Island Generation](https://github.com/BooleanCube/Procedural-Island-Generation) - Procedural Island Generation Optimized Algorithms for Game Development <br>
-[A* Pathfinding Simulation](https://github.com/BooleanCube/AStar-Pathfinding-Simulation) - An optimized simulation for the A* pathfinding algorithm (with a bit of help from my boi devon) <br>
-[Together](https://booleancube.itch.io/together) - Simple 2D Single-Player Platformer Puzzle Game <br>
-[Pig Latin Translator](https://github.com/BooleanCube/PigLatinTranslator) - Pig Latin Translator that converts English text to Pig Latin <br>
-[zelk.vim](https://github.com/BooleanCube/zelk.vim) - Zorin OS theme inspired dark blue neovim colorscheme <br>
-[CPBook](https://github.com/BooleanCube/CPBook) - WIP Competitive Programming book written in wiki <br>
-[GolemCube](https://github.com/BooleanCube/AutoModeratorDiscordBot) - An automoderator discord bot that does half the job for your server moderators (only src) <br>
-[TicTacToe AI Discord Bot](https://discord.com/api/oauth2/authorize?client_id=745316825629327420&permissions=8&scope=bot) [src](https://github.com/BooleanCube/TicTacToeAIBot) - A Tic Tac Toe AI bot that is undefeatable! <br>
-[Tutorial Bot src](https://github.com/BooleanCube/TutorialBot) - This is the source code of the bot from my JDA tutorial series <br>
-[AI Chatbot](https://github.com/BooleanCube/ChatbotBETA) - A discord chatbot that you can speak to (currently in beta because the API I was using is very limited now)
+<details>
+  <summary> 🖥️ Notable Completed Projects </summary>
+  
+  Project                        | Technology        | Theme                   | Location
+  -----------                    | --------------    | --------                | -------------
+  Portfolio Website              | HTML/CSS/JS       | Website                 | https://booleancube.github.io/
+  Lollipop Bot                   | Java/Maven/JDA    | Discord Bot             | https://github.com/BooleanCube/lollipop-bot
+  NeovimKeys                     | Python/Numpy/mmh3 | Application             | https://github.com/BooleanCube/NeovimKeys
+  DiscordDB                      | Java/JSON/JDA     | Database Library        | https://github.com/BooleanCube/DiscordDB
+  Wordle AI                      | Java              | Artificial Intelligence | https://github.com/BooleanCube/Wordle-AI
+  Wordle Peaks AI                | Java              | Artificial Intelligence | https://github.com/BooleanCube/WordlePeaks-AI
+  JGMP (for 2d graphics)         | Java/Maven        | Math/Physics Library    | https://github.com/BooleanCube/jgmp
+  Chaos Theory Reasearch         | Python3/Manim     | Math Research           | https://github.com/BooleanCube/chaos-theory
+  Immortality                    | C#/Unity          | Game                    | https://booleancube.itch.io/immortality
+  Together                       | C#/Unity          | Game                    | https://booleancube.itch.io/together
+  TDPlanner                      | Python/Tkinter    | Utility Application     | https://github.com/BooleanCube/TDPlanner
+  MAO Timer                      | C#/Unity          | Utility Application     | https://github.com/BooleanCube/mao-timer
+  Ascii Generation               | Java              | Utility                 | https://github.com/BooleanCube/imgmanip-asciigen
+  Enigma Simulation              | C++/CMake         | Simulation              | https://github.com/BooleanCube/Enigma-Simulation
+  Accurate Pig Latin Translator  | Java/JitPack      | Utility Library         | https://github.com/BooleanCube/PigLatinTranslator
+  Sudoku Solver                  | Java              | Artificial Intelligence | https://github.com/BooleanCube/SudokuSolver
+  Random Regex Generator         | Java              | Utility/Research        | https://github.com/BooleanCube/Random-Regex-Generator
+  Procedural Island Generation   | Java              | Algorithm/Research      | https://github.com/BooleanCube/Procedural-Island-Generation
+  GolemCube                      | Java/JDA          | Discord Bot             | https://github.com/BooleanCube/GolemCube
+  A* Pathfinding Simulation      | Java/Swing        | Algorithm Simulation    | https://github.com/BooleanCube/AStar-Pathfinding-Simulation
+  zelk.vim                       | Vim Script        | Config Colorscheme      | https://github.com/BooleanCube/zelk.vim
+  Verbal Memory Game             | C#/Unity          | Game                    | https://booleancube.itch.io/verbal-memory-game
+  Tic Tac Toe AI Bot             | Java/JDA          | Discord Bot             | https://github.com/BooleanCube/TicTacToeAIBot
+  
+</details>
+
+<details>
+  <summary> 🛠️ Useful Resources </summary>
+  
+  Resource                                                                    | Description
+  -----------                                                                 | --------------
+  [CP Solutions](https://github.com/BooleanCube/cp)                           | All of my competitive programming problem solutions with new data structures and algorithms.
+  [CPBook](https://github.com/BooleanCube/CPBook)                             | A book/guide to competitive programming written by BooleanCube.
+  [Range Query](https://github.com/BooleanCube/RangeQuery)                    | Range Query problem solutions and algorithms explored.
+  [Binary Search Trees](https://github.com/BooleanCube/BinarySearchTrees)     | Binary Search Tree problem solutions, algorithms and data structures explored.
+  [JDA4 Tutorial Bot](https://github.com/BooleanCube/TutorialBot)             | A discord bot written for my JDA4 youtube tutorial series can be used for referencing.
+  [Arch Dotfiles](https://github.com/BooleanCube/arch-dotfiles)               | Configuration dotfiles on Arch Linux (ArchOS distro) platform.
+  [Ubuntu Dotfiles](https://github.com/BooleanCube/ubuntu-dotfiles)           | Configuration dotfiles on Ubuntu Linux (Budgie flavor) platform.
+  [Windows Dotfiles](https://github.com/BooleanCube/windows-dotfiles)         | Configuration dotfiles on Windows 10 platform. (old)
+ 
+</details>
 
 ----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
-</div>  
+<details>
+  <summary> 📈 GitHub Statistics </summary>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
+  </div>  
 
-<p align="center">
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/erentitan.jpg" width=160 />
-  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/angrymob.png" width=160 /> <br>
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/megumicrazy.jpg" width=160 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> 
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/30298077.png" width=160 /> <br>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=BooleanCube&theme=tokyonight" alt="Streak" width = 400/>
+  </p>
+</details>
 
 ----
 
