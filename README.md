@@ -42,7 +42,7 @@
   -----------                    | --------------    | --------                | -------------
   Portfolio Website              | HTML/CSS/JS       | Website                 | https://booleancube.github.io/
   Lollipop Bot                   | Java/Maven/JDA    | Discord Bot             | https://github.com/BooleanCube/lollipop-bot
-  NeovimKeys                     | Python/Numpy/mmh3 | Application             | https://github.com/BooleanCube/NeovimKeys
+  NeovimKeys                     | Java Swing        | Application             | https://github.com/BooleanCube/NeovimKeys
   DiscordDB                      | Java/JSON/JDA     | Database Library        | https://github.com/BooleanCube/DiscordDB
   Wordle AI                      | Java              | Artificial Intelligence | https://github.com/BooleanCube/Wordle-AI
   Wordle Peaks AI                | Java              | Artificial Intelligence | https://github.com/BooleanCube/WordlePeaks-AI
@@ -59,7 +59,7 @@
   Random Regex Generator         | Java              | Utility/Research        | https://github.com/BooleanCube/Random-Regex-Generator
   Procedural Island Generation   | Java              | Algorithm/Research      | https://github.com/BooleanCube/Procedural-Island-Generation
   GolemCube                      | Java/JDA          | Discord Bot             | https://github.com/BooleanCube/GolemCube
-  A* Pathfinding Simulation      | Java/Swing        | Algorithm Simulation    | https://github.com/BooleanCube/AStar-Pathfinding-Simulation
+  A* Pathfinding Simulation      | Java Swing        | Algorithm Simulation    | https://github.com/BooleanCube/AStar-Pathfinding-Simulation
   zelk.vim                       | Vim Script        | Config Colorscheme      | https://github.com/BooleanCube/zelk.vim
   Verbal Memory Game             | C#/Unity          | Game                    | https://booleancube.itch.io/verbal-memory-game
   Tic Tac Toe AI Bot             | Java/JDA          | Discord Bot             | https://github.com/BooleanCube/TicTacToeAIBot
