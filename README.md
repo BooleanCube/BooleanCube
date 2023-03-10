@@ -80,6 +80,7 @@
   [AOC 2022](https://github.com/BooleanCube/aoc-2022)                         | All of my advent of code 2022 day solutions
   [CPBook](https://github.com/BooleanCube/CPBook)                             | A book/guide to competitive programming written by BooleanCube.
   [Range Query](https://github.com/BooleanCube/RangeQuery)                    | Range Query problem solutions and algorithms explored.
+  [Priority Queue](https://github.com/BooleanCube/priority-queues)            | Understand the mechanisms hidden behind the Priority Queue data structure.
   [Binary Search Trees](https://github.com/BooleanCube/BinarySearchTrees)     | Binary Search Tree problem solutions, algorithms and data structures explored.
   [JDA4 Tutorial Bot](https://github.com/BooleanCube/TutorialBot)             | A discord bot written for my JDA4 youtube tutorial series can be used for referencing.
   [Arch Dotfiles](https://github.com/BooleanCube/arch-dotfiles)               | Configuration dotfiles on Arch Linux (ArchOS distro) platform.
