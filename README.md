@@ -17,7 +17,15 @@
   <a href="https://www.java.com/en/"> <img src="https://img.shields.io/badge/-java-black?style=for-the-badge&logo=openjdk&color=007396" alt="java"> </a> 
   <a href="https://www.cplusplus.com/"> <img src="https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&color=00599c" alt="cpp"> </a> 
   <a href="https://www.python.org/download/releases/3.0/"> <img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" alt="python"> </a> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20(pronounced%20%22See%20Sharp%22,applications%20that%20run%20in%20the%20.&text=C%23%20has%20its%20roots%20in,%2C%20Java%2C%20and%20JavaScript%20programmers."> <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c%20sharp&color=239120" alt="cs"> </a> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#:~:text=C%23%20(pronounced%20%22See%20Sharp%22,applications%20that%20run%20in%20the%20.&text=C%23%20has%20its%20roots%20in,%2C%20Java%2C%20and%20JavaScript%20programmers."> <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c%20sharp&color=239120" alt="cs"> </a>
+  <a href="https://www.lua.org/"> <img src="https://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua" alt="lua"> </a> 
+  <a href="https://www.w3schools.com/html/"> <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5" alt="html"> </a> 
+  <a href="https://www.w3schools.com/css/"> <img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" alt="python"> </a>
+  <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=mysql"> </a> 
+  <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb"> </a> 
+  <a href="https://maven.apache.org/"> <img src="https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apachemaven"> </a> 
+</p>
+<p align="center">
   <a href="https://neovim.io/"> <img src="https://img.shields.io/badge/-neovim-black?style=for-the-badge&logo=neovim" alt="nvim"> </a> 
   <a href="https://github.com/alacritty/alacritty"> <img src="https://img.shields.io/badge/-alacritty-black?style=for-the-badge&logo=alacritty" alt="alacritty"> </a> 
   <a href="https://godotengine.org/"> <img src="https://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godotengine" alt="godot"> </a>
@@ -29,6 +37,8 @@
   <a href="https://trello.com/"> <img src="https://img.shields.io/badge/-trello-black?style=for-the-badge&logo=trello" alt="trello"></a>
   <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion" alt="notion"></a>
   <a href="https://archlinux.org/"> <img src="https://img.shields.io/badge/-arch-black?style=for-the-badge&logo=archlinux" alt="arch linux"></a>
+  <a href="https://www.raspberrypi.com/"> <img src="https://img.shields.io/badge/-RPI4-black?style=for-the-badge&logo=raspberrypi" alt="raspberry pi 4"></a>
+  <a href="https://www.oracle.com/cloud/"> <img src="https://img.shields.io/badge/-Oracle%20cloud-black?style=for-the-badge&logo=oracle" alt="oci"></a>
 </p>
 
 <p align="center">
