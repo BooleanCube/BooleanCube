@@ -34,7 +34,6 @@
   DiscordDB                      | Java/JSON/JDA      | Database Library        | https://github.com/BooleanCube/DiscordDB
   Digit Detection                | Java Swing         | Machine Learning App    | https://github.com/BooleanCube/digit-detection
   Wordle AI                      | Java               | Artificial Intelligence | https://github.com/BooleanCube/Wordle-AI
-  Wordle Peaks AI                | Java               | Artificial Intelligence | https://github.com/BooleanCube/WordlePeaks-AI
   JGMP (for 2d graphics)         | Java/Maven         | Math/Physics Library    | https://github.com/BooleanCube/jgmp
   Chaos Theory Reasearch         | Python3/Manim      | Math Research           | https://github.com/BooleanCube/chaos-theory
   Collatz Conjecture Research    | Python3/Matplotlib | Math Research           | https://github.com/BooleanCube/collatz-conjecture
@@ -43,17 +42,10 @@
   Together                       | C#/Unity           | Game                    | https://booleancube.itch.io/together
   TDPlanner                      | Python/Tkinter     | Utility Application     | https://github.com/BooleanCube/TDPlanner
   MAO Timer                      | C#/Unity           | Utility Application     | https://github.com/BooleanCube/mao-timer
-  Ascii Generation               | Java               | Utility                 | https://github.com/BooleanCube/imgmanip-asciigen
-  Enigma Simulation              | C++/CMake          | Simulation              | https://github.com/BooleanCube/Enigma-Simulation
-  Accurate Pig Latin Translator  | Java/JitPack       | Utility Library         | https://github.com/BooleanCube/PigLatinTranslator
-  Sudoku Solver                  | Java               | Artificial Intelligence | https://github.com/BooleanCube/SudokuSolver
-  Random Regex Generator         | Java               | Utility/Research        | https://github.com/BooleanCube/Random-Regex-Generator
   Procedural Island Generation   | Java               | Algorithm/Research      | https://github.com/BooleanCube/Procedural-Island-Generation
   GolemCube                      | Java/JDA           | Discord Bot             | https://github.com/BooleanCube/GolemCube
   A* Pathfinding Simulation      | Java Swing         | Algorithm Simulation    | https://github.com/BooleanCube/AStar-Pathfinding-Simulation
   zelk.vim                       | Vim Script         | Config Colorscheme      | https://github.com/BooleanCube/zelk.vim
-  Verbal Memory Game             | C#/Unity           | Game                    | https://booleancube.itch.io/verbal-memory-game
-  Tic Tac Toe AI Bot             | Java/JDA           | Discord Bot             | https://github.com/BooleanCube/TicTacToeAIBot
   
 </details>
 
