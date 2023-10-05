@@ -9,8 +9,6 @@
   <a href="https://booleancube.itch.io/"> <img src="https://img.shields.io/badge/-itch.io-black?style=for-the-badge&logo=itch.io" alt="itch"> </a> 
   <a href="https://discord.gg/3ZDpPyR"> <img src="https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord" alt="discord"> </a> 
   <a href="https://www.youtube.com/channel/UCsivrachJyFVLi7V60lrd6g"> <img src="https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube&color=ff0000" alt="youtube"> </a> 
-  <a href="https://twitter.com/BooleanCub3"> <img src="https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter" alt="twitter"> </a> 
-  <a href="https://www.twitch.tv/booleancub3"> <img src="https://img.shields.io/badge/-twitch-black?style=for-the-badge&logo=twitch" alt="twitch"> </a>
   <a href="https://codeforces.com/profile/booleancub3"> <img src="https://img.shields.io/badge/-codeforces-black?style=for-the-badge&logo=codeforces" alt="cf"> </a> 
 </p>
 
