@@ -25,25 +25,31 @@
   
   Project                        | Technology         | Theme                   | Location
   ------------------------------ | ------------------ | ----------------------- | --------------------------------------------------------------
-  Portfolio Website              | HTML/CSS/JS        | Website                 | https://booleancube.github.io/
+  Personal Website               | HTML/CSS/JS        | Website                 | https://booleancube.github.io/
   Lollipop Bot                   | Java/Maven/JDA     | Discord Bot             | https://github.com/BooleanCube/lollipop-discord
   Lollipop Website               | HTML/CSS/JS        | Website                 | https://lollipop-bot.github.io/
+  keylab.nvim                    | Lua/Vimscript      | Vim Plugin              | https://github.com/BooleanCube/keylab.nvim
   NeovimKeys                     | Java Swing         | Application             | https://github.com/BooleanCube/NeovimKeys
   DiscordDB                      | Java/JSON/JDA      | Database Library        | https://github.com/BooleanCube/DiscordDB
   Digit Detection                | Java Swing         | Machine Learning App    | https://github.com/BooleanCube/digit-detection
+  Planetary Chad                 | Python3            | Discord Bot             | https://github.com/OkeWoke/Astro-Discord-Bot
+  Stock Bot                      | Python3/Matplotlib | Artificial Intelligence | https://github.com/BooleanCube/stock-bot
   Wordle AI                      | Java               | Artificial Intelligence | https://github.com/BooleanCube/Wordle-AI
+  2048 AI                        | Python3/Pygame     | Artificial Intelligence | https://github.com/BooleanCube/2048-AI
   JGMP (for 2d graphics)         | Java/Maven         | Math/Physics Library    | https://github.com/BooleanCube/jgmp
   Chaos Theory Reasearch         | Python3/Manim      | Math Research           | https://github.com/BooleanCube/chaos-theory
   Collatz Conjecture Research    | Python3/Matplotlib | Math Research           | https://github.com/BooleanCube/collatz-conjecture
   Falling Sand Simulation        | Java Swing         | Simulation/Game         | https://github.com/BooleanCube/falling-sand-sim
+  Giant Enemy Spider             | OpenTk/C#          | Game                    | https://booleancube.itch.io/giantenemyspider
   Immortality                    | C#/Unity           | Game                    | https://booleancube.itch.io/immortality
   Together                       | C#/Unity           | Game                    | https://booleancube.itch.io/together
   TDPlanner                      | Python/Tkinter     | Utility Application     | https://github.com/BooleanCube/TDPlanner
+  Enigma Simulation              | C++                | Simulation              | https://github.com/BooleanCube/Enigma-Simulation
   MAO Timer                      | C#/Unity           | Utility Application     | https://github.com/BooleanCube/mao-timer
   Procedural Island Generation   | Java               | Algorithm/Research      | https://github.com/BooleanCube/Procedural-Island-Generation
   GolemCube                      | Java/JDA           | Discord Bot             | https://github.com/BooleanCube/GolemCube
   A* Pathfinding Simulation      | Java Swing         | Algorithm Simulation    | https://github.com/BooleanCube/AStar-Pathfinding-Simulation
-  zelk.vim                       | Vim Script         | Config Colorscheme      | https://github.com/BooleanCube/zelk.vim
+  zelk.vim                       | Vimscript          | Config Colorscheme      | https://github.com/BooleanCube/zelk.vim
   
 </details>
 
@@ -53,11 +59,12 @@
   Resource                                                                    | Description
   -----------                                                                 | --------------
   [CP Solutions](https://github.com/BooleanCube/cp)                           | All of my competitive programming problem solutions with new data structures and algorithms.
+  [UCF Learnset Solutions](https://github.com/BooleanCube/ucf-learnset)       | All of my submissions to problems on the UCF Learnset (private problem database)
   [AOC 2021](https://github.com/BooleanCube/aoc-2021)                         | All of my advent of code 2021 day solutions
   [AOC 2022](https://github.com/BooleanCube/aoc-2022)                         | All of my advent of code 2022 day solutions
   [CPBook](https://github.com/BooleanCube/CPBook)                             | A book/guide to competitive programming written by BooleanCube.
   [Range Query](https://github.com/BooleanCube/RangeQuery)                    | Range Query problem solutions and algorithms explored.
-  [Priority Queue](https://github.com/BooleanCube/priority-queues)            | Understand the mechanisms hidden behind the Priority Queue data structure.
+  [Heaps](https://github.com/BooleanCube/heaps)                               | Understand the mechanisms hidden behind the Priority Queue data structure.
   [Binary Search Trees](https://github.com/BooleanCube/BinarySearchTrees)     | Binary Search Tree problem solutions, algorithms and data structures explored.
   [JDA4 Tutorial Bot](https://github.com/BooleanCube/TutorialBot)             | A discord bot written for my JDA4 youtube tutorial series can be used for referencing.
   [Arch Dotfiles](https://github.com/BooleanCube/arch-dotfiles)               | Configuration dotfiles on Arch Linux (ArchOS distro) platform.
