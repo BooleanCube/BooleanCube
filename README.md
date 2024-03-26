@@ -58,7 +58,7 @@
   
   Resource                                                                    | Description
   -----------                                                                 | --------------
-  [Hackpack](https://github.com/BooleanCube/hackpack)                         | My ICPC Hackpack with code templates to advanced and optimized data structures and algorithms
+  [Hackpack](https://github.com/BooleanCube/hackpack)                         | My ICPC Hackpack with code templates to advanced data structures and algorithms
   [CP Solutions](https://github.com/BooleanCube/cp)                           | All of my competitive programming problem solutions to various judge sites.
   [UCF Learnset Solutions](https://github.com/BooleanCube/ucf-learnset)       | All of my submissions to problems on the UCF Learnset (private problem database)
   [AOC 2021](https://github.com/BooleanCube/aoc-2021)                         | All of my advent of code 2021 day solutions
