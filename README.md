@@ -37,7 +37,7 @@
   Wordle AI                      | Java               | Artificial Intelligence | https://github.com/BooleanCube/Wordle-AI
   2048 AI                        | Python3/Pygame     | Artificial Intelligence | https://github.com/BooleanCube/2048-AI
   JGMP (for 2d graphics)         | Java/Maven         | Math/Physics Library    | https://github.com/BooleanCube/jgmp
-  Chaos Theory Reasearch         | Python3/Manim      | Math Research           | https://github.com/BooleanCube/chaos-theory
+  Chaos Theory Research         | Python3/Manim      | Math Research           | https://github.com/BooleanCube/chaos-theory
   Collatz Conjecture Research    | Python3/Matplotlib | Math Research           | https://github.com/BooleanCube/collatz-conjecture
   Falling Sand Simulation        | Java Swing         | Simulation/Game         | https://github.com/BooleanCube/falling-sand-sim
   Giant Enemy Spider             | OpenTk/C#          | Game                    | https://booleancube.itch.io/giantenemyspider
