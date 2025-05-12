@@ -71,13 +71,16 @@
 </details>
 -->
 
-<!-- <summary> 📈 GitHub Statistics </summary> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
-</p>
 
 <p align="center">
   <b><a href="https://booleancube.space">https://booleancube.space</a></b>
+</p>
+
+<!-- <summary> 📈 GitHub Statistics </summary> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=for-the-badge" align="center" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/BooleanCube?style=for-the-badge" align="center" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/BooleanCube?style=for-the-badge" align="center" />
 </p>
 
 <p align="center">
@@ -85,7 +88,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> 
-  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=BooleanCube&theme=tokyonight" alt="Streak" width = 400/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&include_all_commits=true&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width = 400 />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BooleanCube&theme=tokyonight" alt="Streak" width=425 />
 </p>
