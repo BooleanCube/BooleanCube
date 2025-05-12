@@ -4,6 +4,7 @@
 
 ----
 
+<!---
 <h3 align="center">Competitive Programmer and Software Developer</h3>
 <p align="center"> 
   <a href="https://booleancube.itch.io/"> <img src="https://img.shields.io/badge/-itch.io-black?style=for-the-badge&logo=itch.io" alt="itch"> </a> 
@@ -19,6 +20,7 @@
 </p>
 
 ----
+-->
 
 <details>
   <summary> 🖥️ Notable Completed Projects </summary>
