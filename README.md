@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/githubbanner.png" alt="Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ" href="https://booleancube.github.io/" width=800>
-</p>
-
-----
 
 <!---
 <h3 align="center">Competitive Programmer and Software Developer</h3>
@@ -20,7 +15,6 @@
 </p>
 
 ----
--->
 
 <details>
   <summary> 🖥️ Notable Completed Projects </summary>
@@ -75,22 +69,23 @@
   [Windows Dotfiles](https://github.com/BooleanCube/windows-dotfiles)         | Configuration dotfiles on Windows 10 platform. (old)
  
 </details>
+-->
 
-<details>
-  <summary> 📈 GitHub Statistics </summary>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
-  </div>  
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> 
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=BooleanCube&theme=tokyonight" alt="Streak" width = 400/>
-  </p>
-</details>
-
-----
+<!-- <summary> 📈 GitHub Statistics </summary> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BooleanCube&&style=flat-square" align="center" />
+</p>
 
 <p align="center">
-  Professional Procrastinator | Astronomy Fan | Passive Environmentalist | Huge Weeb | Average Classical Music Enjoyer | Open Source Simp <br>
+  <b><a href="https://booleancube.space">https://booleancube.space</a></b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/BooleanCube/BooleanCube/blob/main/images/githubbanner.png" alt="Ｗｅ＇ｌｌ　ｇｏ　ｔｏ　ｖｅｒｙ　ｄｉｓｔａｎｔ　ｌａｎｄｓ　ぼ畝ワ咽永ラ" href="https://booleancube.github.io/" width=800>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BooleanCube&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Stats" width=400/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooleanCube&layout=compact&hide_border=true&hide=html&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Langs" /> 
+  <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=BooleanCube&theme=tokyonight" alt="Streak" width = 400/> -->
 </p>
